@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieWithFlows</string>
+    <string name="sign_in">Inicia sesión</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="enter">Ingresar</string>
+</resources>
